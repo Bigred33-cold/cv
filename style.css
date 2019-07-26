@@ -1,0 +1,52 @@
+body {
+  background-color: #D6E9F1;
+}
+hr {
+  color : white;
+  width: 3%;
+  border-width: 5px;
+  border-style: dotted none none;
+  <!!!!!!!!!border-top-width:0;/ "according with the course, what I did in this line was right but looks better as it's now>
+}
+a{
+  text-decoration: none;
+}
+h1 {
+  text-align: left;
+  color: #092632;
+  font-family: Courier;
+}
+
+h3 {
+  text-align: center;
+  color : #327792;
+  font-family: Verdana;
+  font-style: normal;
+}
+li {
+  color : #5FABC8;
+  font-family: monospace;
+}
+em{
+  font-family: Georgia;
+  color: #092632;
+}
+td{
+  font-family: fantasy;
+}
+th{
+  font-family:Courier new;
+}
+div{
+  text-align: center;
+  list-style-position: inside;
+}
+.fondito{
+  background-image: url("file:///Users/rubenidk/Desktop/WebDevelop/HTML%20-%20Personal%20Site/index.html/images/gir.gif");
+}
+.me{
+  font-family: cursive;
+}
+.skills{
+  margin-left: 490px;
+}
